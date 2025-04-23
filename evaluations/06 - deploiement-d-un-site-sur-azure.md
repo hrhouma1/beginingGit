@@ -56,7 +56,6 @@ Ce projet consistera à créer une machine virtuelle Azure et de l'installer ave
 
 
 - Liens fichiers : https://drive.google.com/drive/folders/1NbxowI-FlQttXM02yuSkQdPzSCaV63ng?usp=sharing
-- Liens vidéos: https://drive.google.com/drive/folders/1hwpbdhNMlprwUan49ijREOJ_IUyX4ZRR?usp=sharing
 
 
 <a name="etape01"></a>
